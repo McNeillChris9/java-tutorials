@@ -1,0 +1,16 @@
+
+# no .a files
+*.[oa]
+
+# ignore all files in the target/ directory
+target/
+
+#ignore all files ending with ~ (usually created by editors)
+*~
+
+# ignore log files and logs directory
+*.log
+logs/
+
+# ignore .tmp files
+*.tmp
